@@ -1,2 +1,3 @@
+include ':aliPaySDK'
 include ':app'
 rootProject.name = "AliPaySDK"
